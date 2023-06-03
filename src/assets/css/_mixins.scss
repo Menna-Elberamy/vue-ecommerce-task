@@ -1,0 +1,7 @@
+@mixin border-radius($radius: 25px) {
+    border-radius: $radius;
+    border: 1px solid #247366;
+    font-weight: bold;
+    background-color:#fff;
+    padding: 3px 15px;
+  }
